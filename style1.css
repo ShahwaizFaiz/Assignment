@@ -1,0 +1,20 @@
+h1{
+
+    font-size: xxx-larger;
+}
+body{
+    background-image:url(images/keyboard.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color:white;
+    text-shadow: blanchedalmond;
+}
+.bullet{
+    
+    color: white;
+    -moz-text-decoration-style:double;
+    
+
+    
+
+}

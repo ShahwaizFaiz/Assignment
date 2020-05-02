@@ -1,0 +1,36 @@
+*{
+   padding-bottom: 5px;
+}
+#roll{
+    color:  #ADFF2F;
+}
+h1{
+    color: #ADFF2F;
+    font-size: xx-large;
+
+}
+#roll{
+    font-size: x-large;
+}
+#div{
+    
+    border-style: solid;
+    border-width: thick;
+    border-radius: 30px;
+    background-color:#ADFF2F;
+    color: darkgreen;
+    font-family: sans-serif;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding-left: 0;
+    line-height: 2em;   
+}
+body{box-sizing: border-box;
+    font-size: 15px;
+    font-weight: bold;
+    background-image: url(http://www.allwhitebackground.com/images/5/Beautiful-Scenery-Background-Free-Images.jpg);
+    background-size: 100% 100%;
+
+
+
+}
